@@ -1,0 +1,28 @@
+name: miamistreetcustoms.com
+favicon: null
+layout_spectrum: 0.2566811677534133
+typography_spectrum: 0.873550295131281
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.9094844178762287
+  lightness: 0.977286258013919
+  saturation: 0.6025351209100336
+  rhythmicContrast: 0.7730492877308279
+purpose: []
