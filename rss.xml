@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Miami Street Customs]]></title>
         <description><![CDATA[Miami Street Customs]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/miamistreetcustoms-com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Aug 2016 02:30:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 09 Aug 2016 03:07:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/miamistreetcustoms-com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Miami Street Customs]]></title>
-            <description><![CDATA[<article><h1>Miami Street Customs</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eb9e553460a1a8718301103f9afc32f9f0471dcd.png"></article>]]></description>
-            <link>undefinedmiami-street-customs/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6c2f97b5-14c6-40a9-8b05-f08f164471bd.jpg">]]></description>
+            <link>https://thegrid.ai/miamistreetcustoms-com/miami-street-customs/index.html</link>
             <guid isPermaLink="false">dae2f771-bb55-44a7-8181-de387fb187b2</guid>
-            <pubDate>Tue, 09 Aug 2016 02:30:52 GMT</pubDate>
+            <pubDate>Tue, 09 Aug 2016 03:07:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
