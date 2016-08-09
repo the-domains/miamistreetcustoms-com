@@ -1,19 +1,24 @@
 ---
-authors: []
-dateModified: '2016-05-03T04:16:18.543Z'
-hasPage: true
 inFeed: true
-inNav: false
+hasPage: true
+inNav: true
+inLanguage: null
 keywords: []
-publisher: {}
-title: Miami Street Customs
 description: ''
-author: []
-starred: false
-datePublished: '2016-08-09T02:30:52.702Z'
+datePublished: '2016-08-09T03:07:36.937Z'
+dateModified: '2016-08-09T02:56:24.729Z'
+title: ''
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-08-09-miami-street-customs.md
+via: {}
+authors: []
+publisher: {}
+starred: true
 url: miami-street-customs/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/29f9d7cf-3c31-4053-8d80-4906af76556f.png)
+Welcome to Miami Street Customs
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6c2f97b5-14c6-40a9-8b05-f08f164471bd.jpg)
